@@ -2,9 +2,9 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
+Core Game Framework/[Ll]ibrary/
+Core Game Framework/[Tt]emp/
+Core Game Framework/[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
